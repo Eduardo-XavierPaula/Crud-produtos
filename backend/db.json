@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "description": "Lápis",
+      "amount": 3,
+      "price": "1.50",
+      "brand": "Faber Castel"
+    },
+    {
+      "description": "Caneta",
+      "amount": "6",
+      "id": 2,
+      "price": "1.50",
+      "brand": "BIC"
+    }
+  ]
+}
