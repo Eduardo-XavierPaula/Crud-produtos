@@ -16,15 +16,25 @@
       "id": 1,
       "description": "Lápis",
       "amount": 3,
-      "price": "1.50",
+      "price": "126",
       "brand": "Faber Castel"
     },
     {
-      "description": "Caneta",
+      "description": "caderno",
       "amount": "6",
       "id": 2,
       "price": "1.50",
       "brand": "BIC"
+    }
+  ],
+  "compras": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "id_product": 1,
+      "amount": 3,
+      "price": 30,
+      "data": "2019/10/10"
     }
   ]
 }

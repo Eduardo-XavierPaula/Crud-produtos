@@ -15,5 +15,8 @@ export default props =>
             <Link to="/products">
                 <i className="fa fa-cubes"></i> Produtos
             </Link>
+            <Link to="/compras">
+                <i className="fa fa-shopping-basket"></i> Compras
+            </Link>
         </nav>
     </aside>
